@@ -10,7 +10,7 @@
 # Darcy-Marketplace
 Darcy Marketplace is an elegant online marketplace for Darcy Cookies Company, showcasing artisan baked goods, customer experiences, reservations, and online shopping. Built with Wix, it offers a responsive design, secure ordering, product galleries, and seamless customer engagement for visitors in Kigali, Rwanda.
 
-## link of Darcy-Marketplace
+## Link of Darcy-Marketplace
 
 https://darcydushime6.wixsite.com/darcy-cookies-compan
 
