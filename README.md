@@ -1,6 +1,6 @@
-## owner(student information)
+## OWNER(student information)
 
-**regNumber** : 24285/2024
+**RegNumber** : 24285/2024
 
 
 **Name** : DUSHIME Darcy
