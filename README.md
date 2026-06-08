@@ -29,6 +29,36 @@ https://darcydushime6.wixsite.com/darcy-cookies-compan
 
 ---
 
+# Darcy Marketplace Screenshots
+
+## Home
+![Home](screenshots/home.jpg)
+
+## About
+![About](screenshots/About.jpg)
+
+## Locations & Hours
+![Locations & Hours](screenshots/location&hours.jpg)
+
+## Menu
+![Menu](screenshots/menu.jpg)
+
+## Reservations
+![Reservations](screenshots/Reservation.jpg)
+
+## Experiences
+![Experiences](screenshots/Experience.jpg)
+
+## Shop
+![Shop](screenshots/shop.jpg)
+
+## Portfolio
+![Portfolio](screenshots/Portfolio.jpg)
+
+
+----
+
+
 ## Business Information
 
 **DarcyCookies Company**  
@@ -67,35 +97,6 @@ Kigali, Rwanda
 - Loyalty rewards program
 
 ---
-
-# Darcy Marketplace Screenshots
-
-## Home
-![Home](screenshots/home.jpg)
-
-## About
-![About](screenshots/About.jpg)
-
-## Locations & Hours
-![Locations & Hours](screenshots/location&hours.jpg)
-
-## Menu
-![Menu](screenshots/menu.jpg)
-
-## Reservations
-![Reservations](screenshots/Reservation.jpg)
-
-## Experiences
-![Experiences](screenshots/Experience.jpg)
-
-## Shop
-![Shop](screenshots/shop.jpg)
-
-## Portfolio
-![Portfolio](screenshots/Portfolio.jpg)
-
-
-----
 
 
 ## License
