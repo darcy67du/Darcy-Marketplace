@@ -77,7 +77,7 @@ Kigali, Rwanda
 ![About](screenshots/About.jpg)
 
 ## Locations & Hours
-![Locations & Hours](screenshots/locations&hours.jpg)
+![Locations & Hours](screenshots/location&hours.jpg)
 
 ## Menu
 ![Menu](screenshots/menu.jpg)
