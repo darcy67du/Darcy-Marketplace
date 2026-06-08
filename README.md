@@ -86,7 +86,7 @@ Kigali, Rwanda
 ![Reservations](screenshots/Reservation.jpg)
 
 ## Experiences
-![Experiences](screenshots/Experiences.jpg)
+![Experiences](screenshots/Experience.jpg)
 
 ## Shop
 ![Shop](screenshots/shop.jpg)
