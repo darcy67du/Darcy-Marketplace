@@ -74,7 +74,7 @@ Kigali, Rwanda
 ![Home](screenshots/home.jpg)
 
 ## About
-![About](screenshots/about.jpg)
+![About](screenshots/About.jpg)
 
 ## Locations & Hours
 ![Locations & Hours](screenshots/locations-hours.jpg)
@@ -83,16 +83,16 @@ Kigali, Rwanda
 ![Menu](screenshots/menu.jpg)
 
 ## Reservations
-![Reservations](screenshots/reservations.jpg)
+![Reservations](screenshots/Reservations.jpg)
 
 ## Experiences
-![Experiences](screenshots/experiences.jpg)
+![Experiences](screenshots/Experiences.jpg)
 
 ## Shop
 ![Shop](screenshots/shop.jpg)
 
 ## Portfolio
-![Portfolio](screenshots/portfolio.jpg)
+![Portfolio](screenshots/Portfolio.jpg)
 
 
 ----
