@@ -68,26 +68,34 @@ Kigali, Rwanda
 
 ---
 
-## folder for  screenshots  of  Darcy-Marketplace
+# Darcy Marketplace Screenshots
 
- **home**:
- (screenshots/home.jpg)
+## Home
+![Home](screenshots/home.jpg)
 
- **about**:
- 
- **locations&hours**:
- 
- **menu**:
- 
- **reservations**:
- 
- **experiences**:
+## About
+![About](screenshots/about.jpg)
 
- **shop**:
+## Locations & Hours
+![Locations & Hours](screenshots/locations-hours.jpg)
 
- **portfolio**:
+## Menu
+![Menu](screenshots/menu.jpg)
 
- ----
+## Reservations
+![Reservations](screenshots/reservations.jpg)
+
+## Experiences
+![Experiences](screenshots/experiences.jpg)
+
+## Shop
+![Shop](screenshots/shop.jpg)
+
+## Portfolio
+![Portfolio](screenshots/portfolio.jpg)
+
+
+----
 
 
 ## License
