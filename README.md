@@ -70,7 +70,8 @@ Kigali, Rwanda
 
 ## folder for  screenshots  of  Darcy-Marketplace
 
- **home**:[screenshots/home]
+ **home**:
+ (screenshots/home.jpg)
 
  **about**:
  
