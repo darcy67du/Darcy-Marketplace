@@ -68,6 +68,27 @@ Kigali, Rwanda
 
 ---
 
+## folder for  screenshots  of  Darcy-Marketplace
+
+ **home**:[screenshots/home]
+
+ **about**:
+ 
+ **locations&hours**:
+ 
+ **menu**:
+ 
+ **reservations**:
+ 
+ **experiences**:
+
+ **shop**:
+
+ **portfolio**:
+
+ ----
+
+
 ## License
 
 This project is intended for educational and demonstration purposes.
