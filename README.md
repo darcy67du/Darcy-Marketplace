@@ -77,13 +77,13 @@ Kigali, Rwanda
 ![About](screenshots/About.jpg)
 
 ## Locations & Hours
-![Locations & Hours](screenshots/locations-hours.jpg)
+![Locations & Hours](screenshots/locations&hours.jpg)
 
 ## Menu
 ![Menu](screenshots/menu.jpg)
 
 ## Reservations
-![Reservations](screenshots/Reservations.jpg)
+![Reservations](screenshots/Reservation.jpg)
 
 ## Experiences
 ![Experiences](screenshots/Experiences.jpg)
